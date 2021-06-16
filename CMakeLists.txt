@@ -23,6 +23,7 @@ add_message_files(
     ImuLite.msg
     DroneMissionCmd.msg
     BehaviorNGoal.msg
+    ControlSet.msg
 )
 
 generate_messages(
