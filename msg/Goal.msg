@@ -1,0 +1,3 @@
+Header header
+geometry_msgs/Vector3 position
+uint8 flight_mode

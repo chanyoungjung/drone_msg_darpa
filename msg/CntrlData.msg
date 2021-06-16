@@ -1,0 +1,13 @@
+Header header
+geometry_msgs/Vector3 position_desired
+geometry_msgs/Vector3 velocity_desired
+geometry_msgs/Vector3 position_error
+geometry_msgs/Vector3 velocity_error
+geometry_msgs/Vector3 acceleration_desired
+geometry_msgs/Vector3 acceleration_feedback
+geometry_msgs/Vector3 jerk_desired
+geometry_msgs/Vector3 jerk_feedback
+geometry_msgs/Vector3 position_integrators
+float64 throttle
+int8 tracking_mode
+int8 att_status
